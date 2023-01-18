@@ -15,6 +15,9 @@ body > *{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
 }
 .header>.logo>a{
     font-size: 24px;
